@@ -1,5 +1,3 @@
-# Cracked-iCreative-s-AIO-5.14-
-
 local AUTOUPDATES = false
 local SCRIPTSTATUS = false
 local ScriptName = "iCreative's AIO"
